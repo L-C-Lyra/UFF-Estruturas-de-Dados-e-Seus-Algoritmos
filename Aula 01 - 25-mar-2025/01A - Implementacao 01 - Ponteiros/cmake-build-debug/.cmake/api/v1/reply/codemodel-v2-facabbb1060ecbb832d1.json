@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01A___Implementacao_01___Ponteiros",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01A___Implementacao_01___Ponteiros::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01A___Implementacao_01___Ponteiros-Debug-59b91a0ed0cea2529410.json",
+					"name" : "01A___Implementacao_01___Ponteiros",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 01 - 25-abr-2025/01A - Implementacao 01 - Ponteiros/cmake-build-debug",
+		"source" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 01 - 25-abr-2025/01A - Implementacao 01 - Ponteiros"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

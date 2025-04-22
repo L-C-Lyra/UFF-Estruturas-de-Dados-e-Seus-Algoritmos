@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 01 - 25-abr-2025/01A - Implementacao 01 - Ponteiros/cmake-build-debug/CMakeFiles/01A___Implementacao_01___Ponteiros.dir
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 01 - 25-abr-2025/01A - Implementacao 01 - Ponteiros/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 01 - 25-abr-2025/01A - Implementacao 01 - Ponteiros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
