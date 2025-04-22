@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02___Implementacao_01___TP",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02___Implementacao_01___TP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02___Implementacao_01___TP-Debug-7223dfe6c701d3523dd2.json",
+					"name" : "02___Implementacao_01___TP",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 02 - 27-mar-2025/02 - Implementacao 01 - TP/cmake-build-debug",
+		"source" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 02 - 27-mar-2025/02 - Implementacao 01 - TP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

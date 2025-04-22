@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "01B___Implementacao_01___TLSE",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01B___Implementacao_01___TLSE::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01B___Implementacao_01___TLSE-Debug-6e54b26430b3c154c91f.json",
+					"name" : "01B___Implementacao_01___TLSE",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 02 - 27-mar-2025/01B - Implementacao 01 - TLSE/cmake-build-debug",
+		"source" : "C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 02 - 27-mar-2025/01B - Implementacao 01 - TLSE"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
