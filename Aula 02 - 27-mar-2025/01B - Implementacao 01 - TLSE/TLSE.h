@@ -3,7 +3,7 @@
 
 typedef struct lse {
     int info_no;
-    struct lse * prox_no;
+    struct lse *prox_no;
 }TLSE;
 
 TLSE *TLSE_ini();
