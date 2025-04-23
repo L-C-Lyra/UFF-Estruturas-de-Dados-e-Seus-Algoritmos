@@ -1,0 +1,3 @@
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 04 - 03-abr-2025/03B - Implementacao 01 - TAB/cmake-build-debug/CMakeFiles/03B___Implementacao_01___TAB.dir
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 04 - 03-abr-2025/03B - Implementacao 01 - TAB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/CLionProjects/TCC00348 - Estruturas de Dados e Seus Algoritmos/Aula 04 - 03-abr-2025/03B - Implementacao 01 - TAB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
