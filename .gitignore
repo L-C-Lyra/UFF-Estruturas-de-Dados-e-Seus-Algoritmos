@@ -51,6 +51,4 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# Exclude all files in the Aula* directories
-/*/
-!/Aula*/ 
+/GitHub Classroom/
